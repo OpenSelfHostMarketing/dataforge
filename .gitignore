@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 *.pyo
-.env
 *.egg-info/
 dist/
 build/
@@ -13,3 +12,5 @@ data/
 *.checkpoint
 *.checkpoint.txt
 *.db
+config.bat
+node_modules
